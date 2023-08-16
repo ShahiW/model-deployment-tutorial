@@ -4,7 +4,6 @@
 The aim of this repo is to give you a small introduction into creating an API for deploying a ML model.
 
 ## Getting started
-Don't clone this repository. It's a template: create your own repository.
 
 One way to deploy a model is to use it as a API endpoint. For example using the [`fastapi`](https://fastapi.tiangolo.com/) framework. Let's start with the question what an API is.
 
